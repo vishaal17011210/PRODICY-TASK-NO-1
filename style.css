@@ -47,5 +47,5 @@ section {
     font-weight: 700;
 }
 section:nth-child(odd) {
-    background: #000b1e;
+      background:whitesmoke;
 }
